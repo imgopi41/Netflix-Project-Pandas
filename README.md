@@ -69,11 +69,20 @@ Q9. What is the Maximum duration of Movie/Show on Netflix ?
 
 **V. Procedures:**
 
-**1.Data Gathering & Data Cleaning:**
+**Data Gathering & Data Cleaning:**
 
 Imported CSV file to excel. Performed various activities, And Also transformed the data into a format that can be easily analyzed.
 
-**2. Data Visualization:**
+**Data Visualization:**
 
-Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. Similarly in this project we have used Visual representation by using Seaborn Library, Displaying the null values in our dataset we used Heat-Map. which displays the number of null values in each column, Where in the given dataset Director column has more number of null values. 
+Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data 
+visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. Similarly in this project we 
+have used Visual representation by using Seaborn Library, Displaying the null values in our dataset we used Heat-Map. which displays the 
+number of null values in each column, Where in the given dataset Director column has more number of null values. 
+
+
+**Demo:** 
+
+![Netflix Project image](https://github.com/imgopi41/Netflix-Project-Pandas/assets/99798157/0cc10a26-083d-4867-a0be-7a109ae95a63)
+
 
