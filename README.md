@@ -69,7 +69,7 @@ Q9. What is the Maximum duration of Movie/Show on Netflix ?
 
 **V. Procedures:**
 
-**Data Gathering & Data Cleaning:**
+**Data Gathering :**
 
 Imported CSV file to excel. Performed various activities, And Also transformed the data into a format that can be easily analyzed.
 
@@ -81,8 +81,13 @@ have used Visual representation by using Seaborn Library, Displaying the null va
 number of null values in each column, Where in the given dataset Director column has more number of null values. 
 
 
-**Demo:** 
+**VI. Demo:** 
 
 ![Netflix Project image](https://github.com/imgopi41/Netflix-Project-Pandas/assets/99798157/0cc10a26-083d-4867-a0be-7a109ae95a63)
 
 
+**VII. Applications & Future enhancements:**
+
+This is an Interactive reports on Netflix dataset. This is kind Analysis is done to check and fetch the patricular details in the given 
+data. And also representing the data in visual form which brings cilents a clear idea on project. This is complete beginners project, The 
+one who is cures to be part of Data Analysis this is absolutely for those who are likely want to learn python for Data Analysis. 
