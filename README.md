@@ -91,3 +91,9 @@ number of null values in each column, Where in the given dataset Director column
 This is an Interactive reports on Netflix dataset. This is kind Analysis is done to check and fetch the patricular details in the given 
 data. And also representing the data in visual form which brings cilents a clear idea on project. This is complete beginners project, The 
 one who is cures to be part of Data Analysis this is absolutely for those who are likely want to learn python for Data Analysis. 
+
+**This Project is also uploaded in LinkedIn,**
+
+**Check out Project in LinkedIn:**
+
+https://www.linkedin.com/feed/update/urn:li:activity:7084782896728739840/
